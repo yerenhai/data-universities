@@ -1,0 +1,884 @@
+{
+  "A": [
+    {
+      "TWOCODE": null,
+      "COUNTRY": "埃及",
+      "THREECODE": null,
+      "ROW_ID": 1
+    },
+    {
+      "TWOCODE": null,
+      "COUNTRY": "埃塞俄比亚",
+      "THREECODE": null,
+      "ROW_ID": 2
+    },
+    {
+      "TWOCODE": null,
+      "COUNTRY": "奥地利",
+      "THREECODE": null,
+      "ROW_ID": 3
+    },
+    {
+      "TWOCODE": null,
+      "COUNTRY": "澳大利亚",
+      "THREECODE": null,
+      "ROW_ID": 4
+    },
+    {
+      "TWOCODE": null,
+      "COUNTRY": "爱尔兰",
+      "THREECODE": null,
+      "ROW_ID": 5
+    },
+    {
+      "TWOCODE": null,
+      "COUNTRY": "爱沙尼亚",
+      "THREECODE": null,
+      "ROW_ID": 6
+    },
+    {
+      "TWOCODE": null,
+      "COUNTRY": "阿塞拜疆",
+      "THREECODE": null,
+      "ROW_ID": 7
+    },
+    {
+      "TWOCODE": null,
+      "COUNTRY": "阿富汗",
+      "THREECODE": null,
+      "ROW_ID": 8
+    },
+    {
+      "TWOCODE": null,
+      "COUNTRY": "阿尔及利亚",
+      "THREECODE": null,
+      "ROW_ID": 9
+    },
+    {
+      "TWOCODE": null,
+      "COUNTRY": "阿尔巴尼亚",
+      "THREECODE": null,
+      "ROW_ID": 10
+    },
+    {
+      "TWOCODE": null,
+      "COUNTRY": "阿曼",
+      "THREECODE": null,
+      "ROW_ID": 11
+    },
+    {
+      "TWOCODE": null,
+      "COUNTRY": "阿根廷",
+      "THREECODE": null,
+      "ROW_ID": 12
+    },
+    {
+      "TWOCODE": null,
+      "COUNTRY": "阿联酋",
+      "THREECODE": null,
+      "ROW_ID": 13
+    }
+  ],
+  "B": [
+    {
+      "TWOCODE": null,
+      "COUNTRY": "保加利亚",
+      "THREECODE": null,
+      "ROW_ID": 1
+    },
+    {
+      "TWOCODE": null,
+      "COUNTRY": "冰岛",
+      "THREECODE": null,
+      "ROW_ID": 2
+    },
+    {
+      "TWOCODE": null,
+      "COUNTRY": "北马其顿",
+      "THREECODE": null,
+      "ROW_ID": 3
+    },
+    {
+      "TWOCODE": null,
+      "COUNTRY": "博茨瓦纳",
+      "THREECODE": null,
+      "ROW_ID": 4
+    },
+    {
+      "TWOCODE": null,
+      "COUNTRY": "巴勒斯坦",
+      "THREECODE": null,
+      "ROW_ID": 5
+    },
+    {
+      "TWOCODE": null,
+      "COUNTRY": "巴基斯坦",
+      "THREECODE": null,
+      "ROW_ID": 6
+    },
+    {
+      "TWOCODE": null,
+      "COUNTRY": "巴巴多斯",
+      "THREECODE": null,
+      "ROW_ID": 7
+    },
+    {
+      "TWOCODE": null,
+      "COUNTRY": "巴拿马",
+      "THREECODE": null,
+      "ROW_ID": 8
+    },
+    {
+      "TWOCODE": null,
+      "COUNTRY": "巴西",
+      "THREECODE": null,
+      "ROW_ID": 9
+    },
+    {
+      "TWOCODE": null,
+      "COUNTRY": "布基纳法索",
+      "THREECODE": null,
+      "ROW_ID": 10
+    },
+    {
+      "TWOCODE": null,
+      "COUNTRY": "比利时",
+      "THREECODE": null,
+      "ROW_ID": 11
+    },
+    {
+      "TWOCODE": null,
+      "COUNTRY": "波兰",
+      "THREECODE": null,
+      "ROW_ID": 12
+    },
+    {
+      "TWOCODE": null,
+      "COUNTRY": "波斯尼亚和黑塞哥维那",
+      "THREECODE": null,
+      "ROW_ID": 13
+    },
+    {
+      "TWOCODE": null,
+      "COUNTRY": "玻利维亚",
+      "THREECODE": null,
+      "ROW_ID": 14
+    },
+    {
+      "TWOCODE": null,
+      "COUNTRY": "白俄罗斯",
+      "THREECODE": null,
+      "ROW_ID": 15
+    },
+    {
+      "TWOCODE": null,
+      "COUNTRY": "秘鲁",
+      "THREECODE": null,
+      "ROW_ID": 16
+    },
+    {
+      "TWOCODE": null,
+      "COUNTRY": "贝宁共和国",
+      "THREECODE": null,
+      "ROW_ID": 17
+    }
+  ],
+  "C": [
+    {
+      "TWOCODE": null,
+      "COUNTRY": "朝鲜",
+      "THREECODE": null,
+      "ROW_ID": 1
+    }
+  ],
+  "D": [
+    {
+      "TWOCODE": null,
+      "COUNTRY": "丹麦",
+      "THREECODE": null,
+      "ROW_ID": 1
+    },
+    {
+      "TWOCODE": null,
+      "COUNTRY": "多哥",
+      "THREECODE": null,
+      "ROW_ID": 2
+    },
+    {
+      "TWOCODE": null,
+      "COUNTRY": "多米尼加",
+      "THREECODE": null,
+      "ROW_ID": 3
+    },
+    {
+      "TWOCODE": null,
+      "COUNTRY": "德国",
+      "THREECODE": null,
+      "ROW_ID": 4
+    }
+  ],
+  "E": [
+    {
+      "TWOCODE": null,
+      "COUNTRY": "俄罗斯",
+      "THREECODE": null,
+      "ROW_ID": 1
+    },
+    {
+      "TWOCODE": null,
+      "COUNTRY": "厄瓜多尔",
+      "THREECODE": null,
+      "ROW_ID": 2
+    }
+  ],
+  "F": [
+    {
+      "TWOCODE": null,
+      "COUNTRY": "斐济",
+      "THREECODE": null,
+      "ROW_ID": 1
+    },
+    {
+      "TWOCODE": null,
+      "COUNTRY": "法国",
+      "THREECODE": null,
+      "ROW_ID": 2
+    },
+    {
+      "TWOCODE": null,
+      "COUNTRY": "芬兰",
+      "THREECODE": null,
+      "ROW_ID": 3
+    },
+    {
+      "TWOCODE": null,
+      "COUNTRY": "菲律宾",
+      "THREECODE": null,
+      "ROW_ID": 4
+    }
+  ],
+  "G": [
+    {
+      "TWOCODE": null,
+      "COUNTRY": "刚果（布）",
+      "THREECODE": null,
+      "ROW_ID": 1
+    },
+    {
+      "TWOCODE": null,
+      "COUNTRY": "刚果（金）",
+      "THREECODE": null,
+      "ROW_ID": 2
+    },
+    {
+      "TWOCODE": null,
+      "COUNTRY": "古巴",
+      "THREECODE": null,
+      "ROW_ID": 3
+    },
+    {
+      "TWOCODE": null,
+      "COUNTRY": "哥伦比亚",
+      "THREECODE": null,
+      "ROW_ID": 4
+    },
+    {
+      "TWOCODE": null,
+      "COUNTRY": "哥斯达黎加",
+      "THREECODE": null,
+      "ROW_ID": 5
+    },
+    {
+      "TWOCODE": null,
+      "COUNTRY": "格林纳达",
+      "THREECODE": null,
+      "ROW_ID": 6
+    },
+    {
+      "TWOCODE": null,
+      "COUNTRY": "格鲁吉亚",
+      "THREECODE": null,
+      "ROW_ID": 7
+    }
+  ],
+  "H": [
+    {
+      "TWOCODE": null,
+      "COUNTRY": "哈萨克斯坦",
+      "THREECODE": null,
+      "ROW_ID": 1
+    },
+    {
+      "TWOCODE": null,
+      "COUNTRY": "荷兰",
+      "THREECODE": null,
+      "ROW_ID": 2
+    },
+    {
+      "TWOCODE": null,
+      "COUNTRY": "韩国",
+      "THREECODE": null,
+      "ROW_ID": 3
+    },
+    {
+      "TWOCODE": null,
+      "COUNTRY": "黑山",
+      "THREECODE": null,
+      "ROW_ID": 4
+    }
+  ],
+  "J": [
+    {
+      "TWOCODE": null,
+      "COUNTRY": "几内亚",
+      "THREECODE": null,
+      "ROW_ID": 1
+    },
+    {
+      "TWOCODE": null,
+      "COUNTRY": "加拿大",
+      "THREECODE": null,
+      "ROW_ID": 2
+    },
+    {
+      "TWOCODE": null,
+      "COUNTRY": "加纳",
+      "THREECODE": null,
+      "ROW_ID": 3
+    },
+    {
+      "TWOCODE": null,
+      "COUNTRY": "吉尔吉斯斯坦",
+      "THREECODE": null,
+      "ROW_ID": 4
+    },
+    {
+      "TWOCODE": null,
+      "COUNTRY": "捷克",
+      "THREECODE": null,
+      "ROW_ID": 5
+    },
+    {
+      "TWOCODE": null,
+      "COUNTRY": "柬埔寨",
+      "THREECODE": null,
+      "ROW_ID": 6
+    },
+    {
+      "TWOCODE": null,
+      "COUNTRY": "津巴布韦",
+      "THREECODE": null,
+      "ROW_ID": 7
+    }
+  ],
+  "K": [
+    {
+      "TWOCODE": null,
+      "COUNTRY": "克罗地亚",
+      "THREECODE": null,
+      "ROW_ID": 1
+    },
+    {
+      "TWOCODE": null,
+      "COUNTRY": "卡塔尔",
+      "THREECODE": null,
+      "ROW_ID": 2
+    },
+    {
+      "TWOCODE": null,
+      "COUNTRY": "喀麦隆",
+      "THREECODE": null,
+      "ROW_ID": 3
+    },
+    {
+      "TWOCODE": null,
+      "COUNTRY": "科威特",
+      "THREECODE": null,
+      "ROW_ID": 4
+    },
+    {
+      "TWOCODE": null,
+      "COUNTRY": "科特迪瓦",
+      "THREECODE": null,
+      "ROW_ID": 5
+    },
+    {
+      "TWOCODE": null,
+      "COUNTRY": "肯尼亚",
+      "THREECODE": null,
+      "ROW_ID": 6
+    }
+  ],
+  "L": [
+    {
+      "TWOCODE": null,
+      "COUNTRY": "列支敦士登",
+      "THREECODE": null,
+      "ROW_ID": 1
+    },
+    {
+      "TWOCODE": null,
+      "COUNTRY": "利比亚",
+      "THREECODE": null,
+      "ROW_ID": 2
+    },
+    {
+      "TWOCODE": null,
+      "COUNTRY": "卢旺达",
+      "THREECODE": null,
+      "ROW_ID": 3
+    },
+    {
+      "TWOCODE": null,
+      "COUNTRY": "卢森堡",
+      "THREECODE": null,
+      "ROW_ID": 4
+    },
+    {
+      "TWOCODE": null,
+      "COUNTRY": "拉脱维亚",
+      "THREECODE": null,
+      "ROW_ID": 5
+    },
+    {
+      "TWOCODE": null,
+      "COUNTRY": "立陶宛",
+      "THREECODE": null,
+      "ROW_ID": 6
+    },
+    {
+      "TWOCODE": null,
+      "COUNTRY": "罗马尼亚",
+      "THREECODE": null,
+      "ROW_ID": 7
+    },
+    {
+      "TWOCODE": null,
+      "COUNTRY": "老挝",
+      "THREECODE": null,
+      "ROW_ID": 8
+    },
+    {
+      "TWOCODE": null,
+      "COUNTRY": "黎巴嫩",
+      "THREECODE": null,
+      "ROW_ID": 9
+    }
+  ],
+  "M": [
+    {
+      "TWOCODE": null,
+      "COUNTRY": "墨西哥",
+      "THREECODE": null,
+      "ROW_ID": 1
+    },
+    {
+      "TWOCODE": null,
+      "COUNTRY": "孟加拉国",
+      "THREECODE": null,
+      "ROW_ID": 2
+    },
+    {
+      "TWOCODE": null,
+      "COUNTRY": "摩尔多瓦",
+      "THREECODE": null,
+      "ROW_ID": 3
+    },
+    {
+      "TWOCODE": null,
+      "COUNTRY": "摩洛哥",
+      "THREECODE": null,
+      "ROW_ID": 4
+    },
+    {
+      "TWOCODE": null,
+      "COUNTRY": "摩纳哥",
+      "THREECODE": null,
+      "ROW_ID": 5
+    },
+    {
+      "TWOCODE": null,
+      "COUNTRY": "毛里求斯",
+      "THREECODE": null,
+      "ROW_ID": 6
+    },
+    {
+      "TWOCODE": null,
+      "COUNTRY": "缅甸",
+      "THREECODE": null,
+      "ROW_ID": 7
+    },
+    {
+      "TWOCODE": null,
+      "COUNTRY": "美国",
+      "THREECODE": null,
+      "ROW_ID": 8
+    },
+    {
+      "TWOCODE": null,
+      "COUNTRY": "莫桑比克",
+      "THREECODE": null,
+      "ROW_ID": 9
+    },
+    {
+      "TWOCODE": null,
+      "COUNTRY": "蒙古",
+      "THREECODE": null,
+      "ROW_ID": 10
+    },
+    {
+      "TWOCODE": null,
+      "COUNTRY": "马尔代夫",
+      "THREECODE": null,
+      "ROW_ID": 11
+    },
+    {
+      "TWOCODE": null,
+      "COUNTRY": "马来西亚",
+      "THREECODE": null,
+      "ROW_ID": 12
+    },
+    {
+      "TWOCODE": null,
+      "COUNTRY": "马耳他",
+      "THREECODE": null,
+      "ROW_ID": 13
+    },
+    {
+      "TWOCODE": null,
+      "COUNTRY": "马达加斯加",
+      "THREECODE": null,
+      "ROW_ID": 14
+    }
+  ],
+  "N": [
+    {
+      "TWOCODE": null,
+      "COUNTRY": "南非",
+      "THREECODE": null,
+      "ROW_ID": 1
+    },
+    {
+      "TWOCODE": null,
+      "COUNTRY": "尼加拉瓜",
+      "THREECODE": null,
+      "ROW_ID": 2
+    },
+    {
+      "TWOCODE": null,
+      "COUNTRY": "尼日利亚",
+      "THREECODE": null,
+      "ROW_ID": 3
+    },
+    {
+      "TWOCODE": null,
+      "COUNTRY": "尼日尔",
+      "THREECODE": null,
+      "ROW_ID": 4
+    },
+    {
+      "TWOCODE": null,
+      "COUNTRY": "尼泊尔",
+      "THREECODE": null,
+      "ROW_ID": 5
+    },
+    {
+      "TWOCODE": null,
+      "COUNTRY": "挪威",
+      "THREECODE": null,
+      "ROW_ID": 6
+    },
+    {
+      "TWOCODE": null,
+      "COUNTRY": "纳米比亚",
+      "THREECODE": null,
+      "ROW_ID": 7
+    }
+  ],
+  "P": [
+    {
+      "TWOCODE": null,
+      "COUNTRY": "葡萄牙",
+      "THREECODE": null,
+      "ROW_ID": 1
+    }
+  ],
+  "R": [
+    {
+      "TWOCODE": null,
+      "COUNTRY": "日本",
+      "THREECODE": null,
+      "ROW_ID": 1
+    },
+    {
+      "TWOCODE": null,
+      "COUNTRY": "瑞典",
+      "THREECODE": null,
+      "ROW_ID": 2
+    },
+    {
+      "TWOCODE": null,
+      "COUNTRY": "瑞士",
+      "THREECODE": null,
+      "ROW_ID": 3
+    }
+  ],
+  "S": [
+    {
+      "TWOCODE": null,
+      "COUNTRY": "塞尔维亚",
+      "THREECODE": null,
+      "ROW_ID": 1
+    },
+    {
+      "TWOCODE": null,
+      "COUNTRY": "塞浦路斯",
+      "THREECODE": null,
+      "ROW_ID": 2
+    },
+    {
+      "TWOCODE": null,
+      "COUNTRY": "斯洛伐克",
+      "THREECODE": null,
+      "ROW_ID": 3
+    },
+    {
+      "TWOCODE": null,
+      "COUNTRY": "斯洛文尼亚",
+      "THREECODE": null,
+      "ROW_ID": 4
+    },
+    {
+      "TWOCODE": null,
+      "COUNTRY": "斯里兰卡",
+      "THREECODE": null,
+      "ROW_ID": 5
+    },
+    {
+      "TWOCODE": null,
+      "COUNTRY": "沙特阿拉伯",
+      "THREECODE": null,
+      "ROW_ID": 6
+    },
+    {
+      "TWOCODE": null,
+      "COUNTRY": "苏丹",
+      "THREECODE": null,
+      "ROW_ID": 7
+    }
+  ],
+  "T": [
+    {
+      "TWOCODE": null,
+      "COUNTRY": "土库曼斯坦",
+      "THREECODE": null,
+      "ROW_ID": 1
+    },
+    {
+      "TWOCODE": null,
+      "COUNTRY": "土耳其",
+      "THREECODE": null,
+      "ROW_ID": 2
+    },
+    {
+      "TWOCODE": null,
+      "COUNTRY": "坦桑尼亚",
+      "THREECODE": null,
+      "ROW_ID": 3
+    },
+    {
+      "TWOCODE": null,
+      "COUNTRY": "塔吉克斯坦",
+      "THREECODE": null,
+      "ROW_ID": 4
+    },
+    {
+      "TWOCODE": null,
+      "COUNTRY": "泰国",
+      "THREECODE": null,
+      "ROW_ID": 5
+    },
+    {
+      "TWOCODE": null,
+      "COUNTRY": "特立尼达和多巴哥",
+      "THREECODE": null,
+      "ROW_ID": 6
+    },
+    {
+      "TWOCODE": null,
+      "COUNTRY": "突尼斯",
+      "THREECODE": null,
+      "ROW_ID": 7
+    }
+  ],
+  "W": [
+    {
+      "TWOCODE": null,
+      "COUNTRY": "乌克兰",
+      "THREECODE": null,
+      "ROW_ID": 1
+    },
+    {
+      "TWOCODE": null,
+      "COUNTRY": "乌兹别克斯坦",
+      "THREECODE": null,
+      "ROW_ID": 2
+    },
+    {
+      "TWOCODE": null,
+      "COUNTRY": "乌干达",
+      "THREECODE": null,
+      "ROW_ID": 3
+    },
+    {
+      "TWOCODE": null,
+      "COUNTRY": "乌拉圭",
+      "THREECODE": null,
+      "ROW_ID": 4
+    },
+    {
+      "TWOCODE": null,
+      "COUNTRY": "危地马拉",
+      "THREECODE": null,
+      "ROW_ID": 5
+    },
+    {
+      "TWOCODE": null,
+      "COUNTRY": "委内瑞拉",
+      "THREECODE": null,
+      "ROW_ID": 6
+    },
+    {
+      "TWOCODE": null,
+      "COUNTRY": "文莱",
+      "THREECODE": null,
+      "ROW_ID": 7
+    }
+  ],
+  "X": [
+    {
+      "TWOCODE": null,
+      "COUNTRY": "匈牙利",
+      "THREECODE": null,
+      "ROW_ID": 1
+    },
+    {
+      "TWOCODE": null,
+      "COUNTRY": "叙利亚",
+      "THREECODE": null,
+      "ROW_ID": 2
+    },
+    {
+      "TWOCODE": null,
+      "COUNTRY": "希腊",
+      "THREECODE": null,
+      "ROW_ID": 3
+    },
+    {
+      "TWOCODE": null,
+      "COUNTRY": "新加坡",
+      "THREECODE": null,
+      "ROW_ID": 4
+    },
+    {
+      "TWOCODE": null,
+      "COUNTRY": "新西兰",
+      "THREECODE": null,
+      "ROW_ID": 5
+    },
+    {
+      "TWOCODE": null,
+      "COUNTRY": "西班牙",
+      "THREECODE": null,
+      "ROW_ID": 6
+    }
+  ],
+  "Y": [
+    {
+      "TWOCODE": null,
+      "COUNTRY": "也门",
+      "THREECODE": null,
+      "ROW_ID": 1
+    },
+    {
+      "TWOCODE": null,
+      "COUNTRY": "亚美尼亚",
+      "THREECODE": null,
+      "ROW_ID": 2
+    },
+    {
+      "TWOCODE": null,
+      "COUNTRY": "以色列",
+      "THREECODE": null,
+      "ROW_ID": 3
+    },
+    {
+      "TWOCODE": null,
+      "COUNTRY": "伊拉克",
+      "THREECODE": null,
+      "ROW_ID": 4
+    },
+    {
+      "TWOCODE": null,
+      "COUNTRY": "伊朗",
+      "THREECODE": null,
+      "ROW_ID": 5
+    },
+    {
+      "TWOCODE": null,
+      "COUNTRY": "印度",
+      "THREECODE": null,
+      "ROW_ID": 6
+    },
+    {
+      "TWOCODE": null,
+      "COUNTRY": "印度尼西亚",
+      "THREECODE": null,
+      "ROW_ID": 7
+    },
+    {
+      "TWOCODE": null,
+      "COUNTRY": "意大利",
+      "THREECODE": null,
+      "ROW_ID": 8
+    },
+    {
+      "TWOCODE": null,
+      "COUNTRY": "牙买加",
+      "THREECODE": null,
+      "ROW_ID": 9
+    },
+    {
+      "TWOCODE": null,
+      "COUNTRY": "约旦",
+      "THREECODE": null,
+      "ROW_ID": 10
+    },
+    {
+      "TWOCODE": null,
+      "COUNTRY": "英国",
+      "THREECODE": null,
+      "ROW_ID": 11
+    },
+    {
+      "TWOCODE": null,
+      "COUNTRY": "越南",
+      "THREECODE": null,
+      "ROW_ID": 12
+    }
+  ],
+  "Z": [
+    {
+      "TWOCODE": null,
+      "COUNTRY": "智利",
+      "THREECODE": null,
+      "ROW_ID": 1
+    },
+    {
+      "TWOCODE": null,
+      "COUNTRY": "赞比亚",
+      "THREECODE": null,
+      "ROW_ID": 2
+    }
+  ]
+}
