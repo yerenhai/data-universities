@@ -1,0 +1,156 @@
+序號	學校代碼	公私立	體制	學校名稱	學校英文名稱	縣市別	網址
+1	0001	公立	一般大學	國立政治大學	National Chengchi University	臺北市	http://www.nccu.edu.tw
+2	0002	公立	一般大學	國立清華大學	National Tsing Hua University	新竹市	http://www.nthu.edu.tw
+3	0003	公立	一般大學	國立臺灣大學	National Taiwan University	臺北市	http://www.ntu.edu.tw
+4	0004	公立	一般大學	國立臺灣師範大學	National Taiwan Normal University	臺北市	http://www.ntnu.edu.tw
+5	0005	公立	一般大學	國立成功大學	National Cheng Kung University	臺南市	https://www.ncku.edu.tw/
+6	0006	公立	一般大學	國立中興大學	National Chung Hsing University	臺中市	http://www.nchu.edu.tw/index1.php
+7	0007	公立	一般大學	國立陽明交通大學	National Yang Ming Chiao Tung University	新竹市	https://www.nycu.edu.tw/
+8	0008	公立	一般大學	國立中央大學	National Central University	桃園市	http://www.ncu.edu.tw
+9	0009	公立	一般大學	國立中山大學	National Sun Yat-sen University	高雄市	http://www.nsysu.edu.tw
+10	0012	公立	一般大學	國立臺灣海洋大學	National Taiwan Ocean University	基隆市	http://www.ntou.edu.tw
+11	0013	公立	一般大學	國立中正大學	National Chung Cheng University	嘉義縣	https://www.ccu.edu.tw/
+12	0014	公立	一般大學	國立高雄師範大學	National Kaohsiung Normal University	高雄市	http://www.nknu.edu.tw
+13	0015	公立	一般大學	國立彰化師範大學	National Changhua University of Education	彰化縣	http://www.ncue.edu.tw
+14	0017	公立	一般大學	國立臺北大學	National Taipei University	新北市	http://www.ntpu.edu.tw/
+15	0018	公立	一般大學	國立嘉義大學	National Chiayi University	嘉義市	https://www.ncyu.edu.tw
+16	0019	公立	一般大學	國立高雄大學	National University of Kaohsiung	高雄市	http://www.nuk.edu.tw
+17	0020	公立	一般大學	國立東華大學	National Dong Hwa University	花蓮縣	https://www.ndhu.edu.tw
+18	0021	公立	一般大學	國立暨南國際大學	National Chi Nan University	南投縣	http://www.ncnu.edu.tw
+19	0022	公立	技專校院	國立臺灣科技大學	National Taiwan University of Science and Technology	臺北市	https://www.ntust.edu.tw/home.php
+20	0023	公立	技專校院	國立雲林科技大學	National Yunlin University of Science & Technology	雲林縣	https://www.yuntech.edu.tw/
+21	0024	公立	技專校院	國立屏東科技大學	National Pingtung University of Science and Technology	屏東縣	https://www.npust.edu.tw/
+22	0025	公立	技專校院	國立臺北科技大學	National Taipei University of Technology	臺北市	https://www.ntut.edu.tw/
+23	0028	公立	一般大學	國立臺北藝術大學	Taipei National University of the Arts	臺北市	https://w3.tnua.edu.tw/
+24	0029	公立	一般大學	國立臺灣藝術大學	National Taiwan University of Arts	新北市	http://www.ntua.edu.tw
+25	0030	公立	一般大學	國立臺東大學	National Taitung University	臺東縣	http://www.nttu.edu.tw
+26	0031	公立	一般大學	國立宜蘭大學	National Ilan University	宜蘭縣	http://www.niu.edu.tw
+27	0032	公立	一般大學	國立聯合大學	National United University	苗栗縣	http://www.nuu.edu.tw
+28	0033	公立	技專校院	國立虎尾科技大學	National Formosa University	雲林縣	https://www.nfu.edu.tw/zh/
+29	0035	公立	一般大學	國立臺南藝術大學	Tainan National University of the Arts	臺南市	http://www.tnnua.edu.tw
+30	0036	公立	一般大學	國立臺南大學	National University of Tainan	臺南市	https://www.nutn.edu.tw
+31	0037	公立	一般大學	國立臺北教育大學	National Taipei University of Education	臺北市	http://www.ntue.edu.tw
+32	0039	公立	一般大學	國立臺中教育大學	National Taichung University of Education	臺中市	http://www.ntcu.edu.tw
+33	0042	公立	技專校院	國立澎湖科技大學	National Penghu University of Science and Technology	澎湖縣	https://www.npu.edu.tw/home.aspx
+34	0043	公立	技專校院	國立勤益科技大學	National Chin-Yi University of Technology	臺中市	https://www.ncut.edu.tw/
+35	0044	公立	一般大學	國立體育大學	National Taiwan Sport University	桃園市	http://www.ntsu.edu.tw
+36	0046	公立	技專校院	國立臺北護理健康大學	National Taipei University of Nursing and Health Sciences	臺北市	https://www.ntunhs.edu.tw/
+37	0047	公立	技專校院	國立高雄餐旅大學	National Kaohsiung University of Hospitality and Tourism	高雄市	https://www.nkuht.edu.tw/
+38	0048	公立	一般大學	國立金門大學	National Quemoy University	金門縣	http://www.nqu.edu.tw
+39	0049	公立	一般大學	國立臺灣體育運動大學	National Taiwan University of Sport	臺中市	https://www.ntus.edu.tw
+40	0050	公立	技專校院	國立臺中科技大學	National  Taichung University Of  Science And Technology	臺中市	https://www.nutc.edu.tw/
+41	0051	公立	技專校院	國立臺北商業大學	National Taipei University of  Business	臺北市	https://www.ntub.edu.tw
+42	0052	公立	一般大學	國立屏東大學	National Pingtung University	屏東縣	https://www.nptu.edu.tw
+43	0053	公立	技專校院	國立高雄科技大學	National Kaohsiung University of Science and Technology	高雄市	https://www.nkust.edu.tw/
+44	0144	公立	技專校院	國立臺灣戲曲學院	National Taiwan College of Performing Arts	臺北市	https://www.tcpa.edu.tw/
+45	0221	公立	技專校院	國立臺南護理專科學校	National Tainan Junior College of Nursing	臺南市	https://www.ntin.edu.tw/
+46	0222	公立	技專校院	國立臺東專科學校	National Taitung Junior College	臺東縣	https://www.ntc.edu.tw/
+47	0A01	公立	空中大學	國立空中大學	National Open University	新北市	http://www.nou.edu.tw/
+48	1001	私立	一般大學	東海大學	Tunghai University	臺中市	http://www.thu.edu.tw
+49	1002	私立	一般大學	輔仁大學學校財團法人輔仁大學	Fu Jen Catholic University	新北市	http://www.fju.edu.tw
+50	1003	私立	一般大學	東吳大學	Soochow University	臺北市	http://www.scu.edu.tw
+51	1004	私立	一般大學	中原大學	Chung Yuan Christian University	桃園市	http://www.cycu.edu.tw
+52	1005	私立	一般大學	淡江大學學校財團法人淡江大學	Tamkang University	新北市	http://www.tku.edu.tw
+53	1006	私立	一般大學	中國文化大學	Chinese Culture University	臺北市	http://www.pccu.edu.tw
+54	1007	私立	一般大學	逢甲大學	Feng Chia University	臺中市	https://www.fcu.edu.tw/
+55	1008	私立	一般大學	靜宜大學	Providence University	臺中市	https://www.pu.edu.tw
+56	1009	私立	一般大學	長庚大學	Chang Gung University	桃園市	http://www.cgu.edu.tw
+57	1010	私立	一般大學	元智大學	Yuan Ze University	桃園市	http://www.yzu.edu.tw
+58	1011	私立	一般大學	中華大學學校財團法人中華大學	Chung Hua University	新竹市	https://www1.chu.edu.tw/
+59	1012	私立	一般大學	大葉大學	Da-Yeh University	彰化縣	https://www.dyu.edu.tw/
+60	1013	私立	一般大學	華梵大學	Huafan University	新北市	http://www.hfu.edu.tw
+61	1014	私立	一般大學	義守大學	I-Shou University	高雄市	http://www.isu.edu.tw
+62	1015	私立	一般大學	世新大學	Shih Hsin University	臺北市	https://www.shu.edu.tw
+63	1016	私立	一般大學	銘傳大學	Ming Chuan University	臺北市	http://www.mcu.edu.tw
+64	1017	私立	一般大學	實踐大學	Shih Chien University	臺北市	http://www.usc.edu.tw
+65	1018	私立	技專校院	朝陽科技大學	Chaoyang University of Technology	臺中市	https://web.cyut.edu.tw
+66	1019	私立	一般大學	高雄醫學大學	Kaohsiung Medical University	高雄市	https://www.kmu.edu.tw/
+67	1020	私立	一般大學	南華大學	Nanhua university	嘉義縣	http://www.nhu.edu.tw
+68	1021	私立	一般大學	真理大學	Aletheia University	新北市	http://www.au.edu.tw
+69	1022	私立	一般大學	大同大學	Tatung University	臺北市	http://www.ttu.edu.tw
+70	1023	私立	技專校院	南臺學校財團法人南臺科技大學	Southern Taiwan University of Science and Technology	臺南市	https://www.stust.edu.tw
+71	1024	私立	技專校院	崑山科技大學	Kun Shan University	臺南市	https://www.ksu.edu.tw/
+72	1025	私立	技專校院	嘉藥學校財團法人嘉南藥理大學	Chia Nan University of Pharmacy & Science	臺南市	https://www.cnu.edu.tw/
+73	1026	私立	技專校院	樹德科技大學	Shu-Te University	高雄市	https://www.stu.edu.tw/
+74	1027	私立	一般大學	慈濟學校財團法人慈濟大學	Tzu Chi University	花蓮縣	http://www.tcu.edu.tw
+75	1028	私立	一般大學	臺北醫學大學	Taipei Medical University	臺北市	http://www.tmu.edu.tw
+76	1029	私立	一般大學	中山醫學大學	Chung Shan Medical University	臺中市	http://www.csmu.edu.tw
+77	1030	私立	技專校院	龍華科技大學	Lunghwa University of Science and Technology	桃園市	https://www.lhu.edu.tw
+78	1031	私立	技專校院	輔英科技大學	Fooyin University	高雄市	https://www.fy.edu.tw/
+79	1032	私立	技專校院	明新學校財團法人明新科技大學	Minghsin University of Science and Technology	新竹縣	https://www.must.edu.tw/
+80	1033	私立	一般大學	長榮大學	Chang Jung Christian University	臺南市	http://www.cjcu.edu.tw
+81	1034	私立	技專校院	弘光科技大學	Hungkuang University	臺中市	https://www.hk.edu.tw
+82	1035	私立	一般大學	中國醫藥大學	China Medical University	臺中市	http://www.cmu.edu.tw
+83	1036	私立	技專校院	健行學校財團法人健行科技大學	Chien Hsin University of Science and Technology	桃園市	https://www.uch.edu.tw/index.htm
+84	1037	私立	技專校院	正修學校財團法人正修科技大學	Cheng Shiu University	高雄市	https://www.csu.edu.tw
+85	1038	私立	技專校院	萬能學校財團法人萬能科技大學	Vanung University	桃園市	https://www.vnu.edu.tw/
+86	1039	私立	一般大學	玄奘大學	Hsuan Chuang University	新竹市	http://www.hcu.edu.tw
+87	1040	私立	技專校院	建國科技大學	Chienkuo Technology University	彰化縣	https://www.ctu.edu.tw/
+88	1041	私立	技專校院	明志科技大學	Ming Chi University of Technology	新北市	https://www.mcut.edu.tw
+89	1042	私立	技專校院	高苑科技大學	Kao Yuan University	高雄市	https://www.kyu.edu.tw/kyunew4/index3.html
+90	1043	私立	技專校院	大仁科技大學	Tajen University	屏東縣	https://www.tajen.edu.tw/
+91	1044	私立	技專校院	聖約翰科技大學	St. John’s University	新北市	https://www.sju.edu.tw
+92	1045	私立	技專校院	嶺東科技大學	Ling Tung University	臺中市	https://www.ltu.edu.tw/
+93	1046	私立	技專校院	中國科技大學	China University of Technology	臺北市	https://www.cute.edu.tw/
+94	1047	私立	技專校院	中臺科技大學	Central Taiwan University of Science and Technology	臺中市	https://www.ctust.edu.tw/
+95	1048	私立	一般大學	亞洲大學	Asia University	臺中市	http://www.asia.edu.tw
+96	1049	私立	一般大學	開南大學	Kainan University	桃園市	http://www.knu.edu.tw
+97	1050	私立	一般大學	佛光大學	Fo Guang University	宜蘭縣	http://www.fgu.edu.tw
+98	1051	私立	技專校院	臺南家專學校財團法人臺南應用科技大學	Tainan University of Technology	臺南市	https://www.tut.edu.tw
+99	1052	私立	技專校院	遠東科技大學	Far East University	臺南市	https://www.feu.edu.tw/web/
+100	1053	私立	技專校院	光宇學校財團法人元培醫事科技大學	Yuanpei University of Medical Technology	新竹市	https://www.ypu.edu.tw/index.php
+101	1054	私立	技專校院	景文科技大學	Jinwen University of Science and Technology	新北市	https://www.just.edu.tw
+102	1055	私立	技專校院	中華醫事科技大學	Chung Hwa University of Medical Technology	臺南市	https://www.hwai.edu.tw/index.php
+103	1056	私立	技專校院	東南科技大學	Tungnan University	新北市	https://www.tnu.edu.tw/
+104	1057	私立	技專校院	德明財經科技大學	Takming University of Science and Technology	臺北市	https://www.takming.edu.tw/
+105	1058	私立	一般大學	明道學校財團法人明道大學	MingDao University	彰化縣	http://www.mdu.edu.tw
+106	1060	私立	技專校院	南開科技大學	Nan Kai University of Technology	南投縣	https://www.nkut.edu.tw/index.php
+107	1061	私立	技專校院	中華學校財團法人中華科技大學	China University of Science and Technology	臺北市	https://www.cust.edu.tw
+108	1062	私立	技專校院	僑光科技大學	Overseas Chinese University	臺中市	https://www.ocu.edu.tw/index.php
+109	1063	私立	技專校院	廣亞學校財團法人育達科技大學	Yu Da University of Science and Technology	苗栗縣	https://www.ydu.edu.tw/
+110	1064	私立	技專校院	美和學校財團法人美和科技大學	Meiho University	屏東縣	https://www.meiho.edu.tw/
+111	1065	私立	技專校院	吳鳳科技大學	WuFeng University	嘉義縣	https://www.wfu.edu.tw
+112	1066	私立	技專校院	環球學校財團法人環球科技大學	TransWorld University	雲林縣	https://www.twu.edu.tw
+113	1069	私立	技專校院	修平學校財團法人修平科技大學	Hsiuping University of Science and Technology	臺中市	https://www.hust.edu.tw/
+114	1070	私立	技專校院	長庚學校財團法人長庚科技大學	Chang Gung University of Science and Technology	桃園市	https://www.cgust.edu.tw
+115	1071	私立	技專校院	城市學校財團法人臺北城市科技大學	Taipei City University of Science and Technology	臺北市	https://www.tpcu.edu.tw/bin/home.php
+116	1072	私立	技專校院	大華學校財團法人敏實科技大學	Minth University of Science and Technology	新竹縣	https://www.mitust.edu.tw/
+117	1073	私立	技專校院	醒吾學校財團法人醒吾科技大學	Hsing Wu University of Science and Technology	新北市	https://www.hwu.edu.tw/
+118	1075	私立	技專校院	文藻學校財團法人文藻外語大學	Wenzao Ursuline University of Languages	高雄市	https://a001.wzu.edu.tw/
+119	1076	私立	技專校院	華夏學校財團法人華夏科技大學	Hwa Hsia University of Technology	新北市	https://www.hwh.edu.tw/bin/hwhhome.php
+120	1077	私立	技專校院	慈濟學校財團法人慈濟科技大學	Tzu Chi University of Science and Technology	花蓮縣	https://www.tcust.edu.tw/
+121	1078	私立	技專校院	致理學校財團法人致理科技大學	Chihlee University of Technology	新北市	https://www.chihlee.edu.tw/
+122	1079	私立	一般大學	康寧學校財團法人康寧大學	University of Kang Ning	臺北市	http://www.ukn.edu.tw
+123	1080	私立	技專校院	宏國學校財團法人宏國德霖科技大學	Hungkuo Delin University of Technology	新北市	https://w5.hdut.edu.tw/app/home.php
+124	1081	私立	技專校院	東方學校財團法人東方設計大學	TungFang Design University	高雄市	https://www.tf.edu.tw
+125	1082	私立	技專校院	崇右學校財團法人崇右影藝科技大學	Chungyu University of Film and Arts	基隆市	https://www.cufa.edu.tw
+126	1083	私立	技專校院	臺北海洋學校財團法人臺北海洋科技大學	Taipei University of Marine Technology	新北市	https://www.tumt.edu.tw/
+127	1084	私立	技專校院	亞東學校財團法人亞東科技大學	Asia Eastern University of Science and Technology	新北市	https://www.aeust.edu.tw/
+128	1125	私立	一般大學	中信金融管理學院	CTBC Business School	臺南市	http://www.ctbc.edu.tw/
+129	1148	私立	技專校院	大漢學校財團法人大漢技術學院	Dahan Institute of Technology	花蓮縣	https://rpage.dahan.edu.tw/
+130	1168	私立	技專校院	南亞科技學校財團法人南亞技術學院	Nanya Institute of Technology	桃園市	https://www.nanya.edu.tw
+131	1183	私立	技專校院	黎明技術學院	Lee-Ming Institute of Technology	新北市	https://www.lit.edu.tw/
+132	1185	私立	技專校院	德育學校財團法人德育護理健康學院	Deh Yu College of Nursing and Health	基隆市	https://www.dyhu.edu.tw/
+133	1188	私立	技專校院	大同技術學院	Tatung Institute of Technology	嘉義市	https://www.ttc.edu.tw
+134	1195	私立	一般大學	馬偕學校財團法人馬偕醫學院	MacKay Medical College	新北市	http://www.mmc.edu.tw
+135	1196	私立	一般大學	法鼓學校財團法人法鼓文理學院	Dharma Drum Institute of Liberal Art	新北市	http://www.dila.edu.tw/
+136	1282	私立	技專校院	馬偕學校財團法人馬偕醫護管理專科學校	MacKay Junior College of Medicine, Nursing, and Management	臺北市	https://www.mkc.edu.tw/
+137	1283	私立	技專校院	仁德醫護管理專科學校	Jen-Teh Junior College of Medicine, Nursing and Management	苗栗縣	https://www.jente.edu.tw/
+138	1284	私立	技專校院	樹人醫護管理專科學校	Shu-Zen Junior College of Medicine and Management	高雄市	https://www.szmc.edu.tw/
+139	1285	私立	技專校院	慈惠醫護管理專科學校	TZU HUI Institute of Technology	屏東縣	https://www.tzuhui.edu.tw/main/
+140	1286	私立	技專校院	耕莘健康管理專科學校	Cardinal Tien Junior College of Healthcare And Management	新北市	https://www.ctcn.edu.tw
+141	1287	私立	技專校院	敏惠醫護管理專科學校	Min-Hwei Junior College of Health Care Management	臺南市	https://www.mhchcm.edu.tw
+142	1289	私立	技專校院	育英醫護管理專科學校	Yuh-Ing Junior College of Health Care & Management	高雄市	https://www.yuhing.edu.tw
+143	1291	私立	技專校院	聖母醫護管理專科學校	St. Mary´s Junior College of Medicine, Nursing and Management	宜蘭縣	https://www.smc.edu.tw/nss/s/main/p/index
+144	1292	私立	技專校院	新生學校財團法人新生醫護管理專科學校	Hsin Sheng Junior College of Medical Care and Management	桃園市	https://www.hsc.edu.tw
+145	1293	私立	技專校院	崇仁醫護管理專科學校	Chung-Jen Junior College of Nursing, Health Sciences and Management	嘉義縣	https://www.cjc.edu.tw/
+146	1R02	私立	宗教研修學院	學校財團法人中華浸信會基督教台灣浸會神學院	Taiwan Baptist Christian Seminary	臺北市	http://www.tbts.edu.tw/
+147	1R03	私立	宗教研修學院	臺北基督學院	Christ''s College Taipei	新北市	http://www.cct.edu.tw
+148	1R04	私立	宗教研修學院	財團法人一貫道天皇基金會一貫道天皇學院	I-Kuan Tao College	高雄市	http://www.iktc.edu.tw/
+149	1R05	私立	宗教研修學院	台神學校財團法人台灣神學研究學院	Taiwan Graduate School of Theology	臺北市	http://www.tgst.edu.tw
+150	1R06	私立	宗教研修學院	一貫道崇德學院	I.K.T. Chong-De School	南投縣	http://www.iktcds.edu.tw/
+151	1R07	私立	宗教研修學院	台灣基督長老教會南神神學院	Tainan Theological College	臺南市	http://www.ttcs.edu.tw/
+152	1R08	私立	宗教研修學院	中華福音神學研究學院	China Evangelical Graduate School of Theology	桃園市	http://wp.ces.org.tw/
+153	1R09	私立	宗教研修學院	唯心聖教學院	Weixin Shengjiao College	南投縣	http://www.wxsjc.edu.tw/
+154	3002	公立	一般大學	臺北市立大學	University of Taipei	臺北市	http://www.utaipei.edu.tw/
+155	3A01	公立	空中大學	高雄市立空中大學	Open University of Kaohsiung	高雄市	http://www.ouk.edu.tw
