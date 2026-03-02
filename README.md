@@ -49,9 +49,10 @@
 
 教育部认证院校查询
 
-- ~~http://jsj.moe.gov.cn/n1/12018.shtml~~
-- https://yxcx.cscse.edu.cn/rzyxmd
-- https://www.smartedu.cn/home/servicehall?name=RZYXCX
+- [中国留学网-认证院校查询](https://yxcx.cscse.edu.cn/rzyxmd)
+- [中国留学网-学历学位认证](https://zwfw.cscse.edu.cn/)
+- [国家智慧教育公共服务平台-认证院校查询](https://www.smartedu.cn/home/servicehall?name=RZYXCX)
+- ~~[教育部教育涉外监管信息网-外国高校参考名单](https://jsj.moe.gov.cn/api/index/mdDesc/gwyx)~~
 
 ## 附录
 
@@ -122,3 +123,8 @@ http://www.moe.gov.cn/srcsite/A03/moe_634/200707/t20070701_180637.html
 - 全国教育事业发展统计公报: http://www.moe.gov.cn/jyb_xxgk/xxgk/neirong/tongji/gongbao/
 - 高校合并: http://www.moe.gov.cn/srcsite/A03/moe_634/200605/t20060515_88440.html
 - 中国大学基础信息数据库: https://www.urongda.com/resources
+
+- 香港特区教育局：高等院校 https://www.edb.gov.hk/tc/edu-system/postsecondary/local-higher-edu/institutions/index.html
+- 澳门特区教育及青年发展局：高等院校 https://portal.dsedj.gov.mo/webdsejspace/internet/Inter_main_page.jsp?id=80123
+- 中国台湾“教育部”大專校院 https://udb.moe.edu.tw/ulist/
+- 日本文部科学省：高等院校 https://www.mext.go.jp/b_menu/link/1294885.htm
