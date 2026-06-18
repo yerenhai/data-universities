@@ -75,6 +75,7 @@
 - 高校合并: http://www.moe.gov.cn/srcsite/A03/moe_634/200605/t20060515_88440.html
 - 高等学校章程 http://www.moe.gov.cn/jyb_sjzl/sjzl_zcfg/zcfg_gdxxzch/index_7.html
 - 【政府信息公开】全国高等学校名单 http://www.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_gdjy/gdjy_gxsz/gxsz_xxmd/
+- 招收香港中学文凭考试学生内地高校名单、内地高校招收香港中学文凭考试学生办法 http://www.moe.gov.cn/s78/A20/tongzhi/gangaotai/
 
 <!-- - 中国大学基础信息数据库: https://www.urongda.com/resources -->
 <!-- 日本文部科学省：高等院校 https://www.mext.go.jp/b_menu/link/1294885.htm -->
